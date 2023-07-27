@@ -2,9 +2,6 @@ this is test file
 
 git branch git_gunj
 
-
-demo
-
 me sadi kari
 
 
